@@ -7,7 +7,7 @@
 
 
 - 🖥️ I do love programming in **python**🐍, **Java**☕ and **C/C++**.
-  I also like to use **matlab** during my studies.
+  I also like to use **matlab** and **assembler** during my studies.
 
 
 - 📫 You can reach me using my 
