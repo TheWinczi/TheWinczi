@@ -12,6 +12,7 @@
 
 - 📫 You can reach me using my 
   + mail mwinczewski@tutanota.com
+  + linkedin https://www.linkedin.com/in/maciej-winczewski/
 
 <!---
 TheWinczi/TheWinczi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
