@@ -12,3 +12,4 @@
 
 - 📫 You can reach me using my 
   + mail mwinczewski@tutanota.com
+  + LinkedIn https://www.linkedin.com/in/maciej-winczewski/
